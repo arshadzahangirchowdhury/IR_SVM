@@ -1,4 +1,4 @@
-# SVM_IR_Classifier
+# Support Vector Classifier for IR spectra recognition
 
 SVM IR Spectra Classifier
 
