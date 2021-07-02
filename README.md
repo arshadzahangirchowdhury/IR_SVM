@@ -1,9 +1,16 @@
 # SVM_IR_Classifier
 
 SVM IR Spectra Classifier
+
+
 Author: M. Arshad Zahangir Chowdhury
+
+
 Manuscript : A Support Vector Machines Framework for Identification of Infrared Spectra
+
  by M. Arshad Zahangir Chowdhury, Timothy E. Rice, and Matthew A. Oehlschlaeger
+
+
 July 2, 2021 
 
 This program trains a support vector classifier to recognize experimental IR spectra.
