@@ -12,7 +12,7 @@ Training data and a validation spectrum is provided for the user.
 
 Instructions 
 
-This notebook reads the input data from user's google drive
+This notebook reads the input data from user's google drive.\n
 Download the folder "IR_DATA_1wvnstep_10um_decades_Ex" from Github and copy it to user's google drive. These are the training and testing spectra.
 Download the "H2O-4-NIST.xlsx" experimental spectrum from Github and copy it to user's google drive.
 When the program is run for the first time, user must authenticate to allow it to use the user's google drive.
