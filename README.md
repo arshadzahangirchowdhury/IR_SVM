@@ -1,39 +1,37 @@
-# Support Vector Classifier for IR spectra recognition
-
-SVM IR Spectra Classifier
 
 
-Author: M. Arshad Zahangir Chowdhury
+# IR_SVM: Infrared Spectra Detection via Support Vector Machine Framework
 
+Software for intelligent detection of IR spectra. 
 
-Manuscript : A Support Vector Machines Framework for Identification of Infrared Spectra
+<p align="center">
+  <img width="400" src="imgs/IR_SVM_Framework.jpg">
+</p>
 
- by M. Arshad Zahangir Chowdhury, Timothy E. Rice, and Matthew A. Oehlschlaeger
+## Installation
 
+1. Clone the repository
+2. Install the required packages
 
-July 2, 2021 
+## Instructions
 
-This program trains a support vector classifier to recognize experimental IR spectra.
+## Developer
 
-Training data and a validation spectrum is provided for the user.
+M Arshad Zahangir Chowdhury
 
-Instructions 
+## Data, ideas and supervision
 
-This notebook reads the input data from user's google drive.
+Tim E. Rice
 
+Matthew A. Oehlschlaeger
 
-Download the folder "IR_DATA_1wvnstep_10um_decades_Ex" from Github and copy it to user's google drive. These are the training and testing spectra.
+## Affiliation
 
+Rensselaer Polytechnic Institute
 
-Download the "H2O-4-NIST.xlsx" experimental spectrum from Github and copy it to user's google drive.
+## License
+MIT License
 
+## Funding
 
-When the program is run for the first time, user must authenticate to allow it to use the user's google drive.
-
-
-Once authenticated the program will run and should identify the spectrum belonging to the H2O class.
-
-
-Alternatively, user can download this code and the data and run it locally by changing the path variables pathMaster and path_exp
-
-© M Arshad Zahangir Chowdhury
+This project was funded by a National Science Foundation Grant.
