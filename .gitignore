@@ -7,6 +7,12 @@ __pycache__/
 # Directories
 old_example
 
+# images
+.jpg
+.png
+.tif
+.tiff
+
 # C extensions
 *.so
 
