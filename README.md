@@ -10,10 +10,13 @@ Software for intelligent detection of IR spectra.
 
 ## Installation
 
-1. Clone the repository
-2. Install the required packages
+1. Clone the repository.
+2. Install the required packages.
 
 ## Instructions
+
+1. Run the code inside workflow directory to perform analysis.
+2. Use the GUI classifier for classifying experimental spectra.
 
 ## Developer
 
