@@ -37,7 +37,8 @@ MIT License
 
 ## Funding
 
-This project was funded by a National Science Foundation Grant.
+This work was supported by the National Science Foundation under Grant CBET-1851291.
+
 
 ## Publication
 
