@@ -22,7 +22,7 @@ Software for intelligent detection of IR spectra.
 
 M Arshad Zahangir Chowdhury
 
-## Data, ideas and supervision
+## Data and supervision
 
 Tim E. Rice
 
