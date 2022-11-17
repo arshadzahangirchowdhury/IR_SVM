@@ -38,3 +38,8 @@ MIT License
 ## Funding
 
 This project was funded by a National Science Foundation Grant.
+
+## Publication
+
+Chowdhury, M.A.Z., Rice, T.E. & Oehlschlaeger, M.A. A support vector machines framework for identification of infrared spectra. Appl. Phys. B 128, 161 (2022). 
+https://doi.org/10.1007/s00340-022-07879-8
